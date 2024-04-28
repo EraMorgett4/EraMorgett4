@@ -1,7 +1,8 @@
 <!--capsule-render(https://github.com/kyechan99/capsule-render-->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sunwoo%20Hwang&reversal=false&fontAlign=50&fontAlignY=40&animation=blink&descAlign=50&desc=Speaking%20Potato&descSize=15)
 
-## _'쟤보단 잘하겠지'의 쟤를 맡고 있습니다._
+<!--https://readme-typing-svg.demolab.com/demo/-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=5000&color=89E389&random=false&width=435&lines='%EC%9F%A4%EB%B3%B4%EB%8B%A8+%EC%9E%98%ED%95%98%EA%B2%A0%EC%A7%80'%EC%9D%98++%EC%9F%A4%EB%A5%BC+%EB%8B%B4%EB%8B%B9%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
