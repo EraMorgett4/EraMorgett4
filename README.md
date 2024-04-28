@@ -1,6 +1,8 @@
 <!--capsule-render(https://github.com/kyechan99/capsule-render-->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sunwoo%20Hwang&reversal=false&fontAlign=50&fontAlignY=40&animation=blink&descAlign=50&desc=Speaking%20Potato&descSize=15)
 
+<h5> '쟤보단 잘하겠지'의 쟤를 맡고 있습니다. </h5>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
