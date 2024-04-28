@@ -21,7 +21,7 @@
 </div>
 <br>
 <hr/>
-*****
+
 <!-- generate-snake-game-from-github-contribution-grid -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraMorgett4&hide=Ruby&layout=compact)
 
