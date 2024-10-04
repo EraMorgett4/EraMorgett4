@@ -1,4 +1,4 @@
-<!--capsule-render(https://github.com/kyechan99/capsule-render-->
+<!--capsule-render(https://github.com/kyechan99/capsule-render)-->
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sunwoo%20Hwang&reversal=false&fontAlign=50&fontAlignY=40&animation=blink&descAlign=50&desc=Speaking%20Potato&descSize=15)
@@ -18,26 +18,36 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  
-
 </div>
 
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=for-the-badge&logo=tanstackquery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=20232a" />&nbsp
 </div>
 <br>
 <hr/>
 
+<h3 align="center">📂 Projects 📂</h3>
+<div align="center">
+  <div align="center">
+    <strong><a href="https://github.com/FRONTENDSCHOOL10/Topten">Topten - 나만의 스타일 캐스터 StyleCast</a></strong><br><br>
+    <strong><a href="https://github.com/FRONTENDSCHOOL10/Trinity">Trinity- TVING 클론 프로젝트</a></strong><br><br>
+    <strong><a href="https://github.com/HICE-CodingTestStudy/solved">HICE Coding Test Study</a></strong><br><br>
+  </div>
+</div>
+
 <!-- generate-snake-game-from-github-contribution-grid -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraMorgett4&hide=Ruby&layout=compact)
 
-
-<picture align = center>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://www.acmicpc.net/user/not">
+  <picture align = center>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</a>
 <br>
