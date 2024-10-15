@@ -61,10 +61,15 @@
   </div>
   
 </div>
+  <br/><br/>
 
-
+  <div align="center">
+    
 <!-- generate-snake-game-from-github-contribution-grid -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraMorgett4&hide=Ruby&layout=compact)
+
+  </div>
+
 
 <a href="https://www.acmicpc.net/user/not">
   <picture align = center>
