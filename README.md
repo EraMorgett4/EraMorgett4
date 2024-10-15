@@ -48,7 +48,7 @@
   ### ✅ 진행 완료된 프로젝트
   
   <div align="center">
-    <strong><a href="https://github.com/FRONTENDSCHOOL10/Trinity">Trinity - TVING 클론 프로젝트</a></strong>
+    <strong><a href="https://github.com/FRONTENDSCHOOL10/Trinity">Trinity - TVING 클론 프로젝트</a></strong> <br/>
     <strong><a href="https://github.com/FRONTENDSCHOOL10/Topten">Topten - 나만의 스타일 캐스터 StyleCast</a></strong> 
   </div>
   
