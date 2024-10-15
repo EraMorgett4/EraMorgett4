@@ -40,7 +40,7 @@
   ### 🚧 진행 중인 프로젝트
   
   <div align="center">
-        <strong><a href=" https://github.com/ott-service/OTMeal">OTMeal - OTT 프로젝트</a></strong>
+        <strong><a href="https://github.com/ott-service/OTMeal">OTMeal - OTT 프로젝트</a></strong>
   </div>
   
   <br/><br/>
