@@ -33,15 +33,35 @@
 </div>
 <br>
 <hr/>
-
 <h3 align="center">📂 Projects 📂</h3>
+
 <div align="center">
+  
+  ### 🚧 진행 중인 프로젝트
+  
   <div align="center">
-    <strong><a href="https://github.com/FRONTENDSCHOOL10/Topten">Topten - 나만의 스타일 캐스터 StyleCast</a></strong>  </br>  </br>
-    <strong><a href="https://github.com/FRONTENDSCHOOL10/Trinity">Trinity- TVING 클론 프로젝트</a></strong>  </br>  </br>
-    <strong><a href="https://github.com/HICE-CodingTestStudy/solved">HICE Coding Test Study</a></strong>  </br>  </br>
+        <strong><a href=" https://github.com/ott-service/OTMeal">OTMeal - OTT 프로젝트</a></strong>
   </div>
+  
+  <br/><br/>
+  
+  ### ✅ 진행 완료된 프로젝트
+  
+  <div align="center">
+    <strong><a href="https://github.com/FRONTENDSCHOOL10/Trinity">Trinity - TVING 클론 프로젝트</a></strong>
+    <strong><a href="https://github.com/FRONTENDSCHOOL10/Topten">Topten - 나만의 스타일 캐스터 StyleCast</a></strong> 
+  </div>
+  
+  <br/><br/>
+  
+  ### 📖 스터디용 레포지토리
+  
+  <div align="center">
+    <strong><a href="https://github.com/HICE-CodingTestStudy/solved">HICE Coding Test Study</a></strong>
+  </div>
+  
 </div>
+
 
 <!-- generate-snake-game-from-github-contribution-grid -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraMorgett4&hide=Ruby&layout=compact)
